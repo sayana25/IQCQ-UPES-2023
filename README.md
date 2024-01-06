@@ -8,7 +8,7 @@ We start with the statevector representation, representing kets, bras and unitar
 Level 3 : Quantum Fourier Transform 
 
 
-Level 4 : CHSH inequality(?) and Quantum teleportation 
+Level 4 : Quantum teleportation 
 
 
 The labs and exercises have been created based on labs given in QGSS 2021, QGSS 2023, Qiskit Fall Fests - 2023. 
